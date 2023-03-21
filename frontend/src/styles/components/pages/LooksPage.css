@@ -1,0 +1,14 @@
+.looks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.looks img {
+    width: 31%;
+    border: 1px solid #ddd;
+    padding: 0.3em;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    margin-right: 2%;
+}

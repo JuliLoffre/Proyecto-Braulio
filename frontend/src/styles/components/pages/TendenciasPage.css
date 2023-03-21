@@ -1,0 +1,36 @@
+.historia {
+    font-size: 18px;
+}
+
+.tendencia {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 24%;
+    text-align: center;
+    padding: 13px;
+    box-sizing: border-box;
+}
+
+.tendencias {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tendencia img {
+    border-radius: 1%;
+    max-width: 100%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.tendencia h5
+
+.tendencia h6 {
+    margin: 0;
+    font-weight: normal;
+    color: #5d0c1d;
+}
+
+.tendencia p {
+    color: #666;
+    font-size: 10px;
+}
