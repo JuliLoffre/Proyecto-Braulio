@@ -1,5 +1,7 @@
 import React from 'react';
 
+
+
 const NovedadItem = (props) => {
     const { title, subtitle, imagen, body } = props;
 

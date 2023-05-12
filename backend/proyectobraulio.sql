@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: May 12, 2023 at 01:21 AM
+-- Generation Time: May 12, 2023 at 08:01 PM
 -- Server version: 5.7.39
 -- PHP Version: 7.4.33
 
@@ -89,7 +89,7 @@ ALTER TABLE `usuarios`
 -- AUTO_INCREMENT for table `novedades`
 --
 ALTER TABLE `novedades`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=20;
 
 --
 -- AUTO_INCREMENT for table `usuarios`
