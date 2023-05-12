@@ -7,6 +7,7 @@ const Header = (props) => {
                 <img src="img/logo.png" width="100" alt="Braulio" />
                 <h1>Braulio Store</h1>
             </div>
+            
         </header>
     );
 }

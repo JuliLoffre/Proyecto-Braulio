@@ -9,7 +9,9 @@ import Footer from "./components/layout/Footer";
 import HomePage from "./pages/HomePage";
 import TendenciasPage from "./pages/TendenciasPage";
 import LooksPage from "./pages/LooksPage";
+import NovedadesPage from "./pages/NovedadesPage";
 import ContactoPage from "./pages/ContactoPage";
+
 
 
 function App() {
@@ -23,6 +25,7 @@ function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="tendencias" element={<TendenciasPage />} />
           <Route path="looks" element={<LooksPage />} />
+          <Route path="novedades" element={<NovedadesPage />} />
           <Route path="contacto" element={<ContactoPage />} />
         </Routes>
       </BrowserRouter>
